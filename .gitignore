@@ -2,7 +2,9 @@
 .idea/
 NotesDemo/libs/
 gradle/
+.gradle/
 *.iml
+
 
 
 #################
